@@ -41,7 +41,7 @@ Je cherche aujourd’hui à rejoindre une équipe **data collaborative** où je 
 → Accompagnement de coachs et thérapeutes dans la définition de leur positionnement et identité digitale
 
 **Consultante en Communication Digitale — Hopscotch (2015 – 2017)**  
-→ Social listening et analyse d’image pour Microsoft, Keolis, AG2R
+→ Social listening et analyse d’image pour Microsoft, Keolis, AG2R <br>
 → Campagne doublement primée par *Communication & Entreprises* 🏆  
 
 ---
@@ -59,7 +59,7 @@ Je cherche aujourd’hui à rejoindre une équipe **data collaborative** où je 
 
 ### 🎨 Centres d’intérêt
 
-🥋 **Arts martiaux** – Penchak Silat & Karaté
+🥋 **Arts martiaux** – Penchak Silat & Karaté<br>
 🥁 **Musique** – Batterie & chant
 
 ---
