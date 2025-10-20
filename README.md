@@ -1,7 +1,7 @@
 <h1 align="center">👋 Salut, je suis Florence Maestlé</h1>
 
 <p align="center">
-  <b>Data Analyst Junior | Ex-e-Retail Media Trader | Data Storyteller</b><br>
+  <b>Data Analyst Junior | Ex e-Retail Media Trader | Data Storyteller</b><br>
   <i>J’aime transformer la donnée en décisions éclairées 🌱</i>
 </p>
 
@@ -35,13 +35,13 @@ Je cherche aujourd’hui à rejoindre une équipe **data collaborative** où je 
 ### 💼 Expériences
 
 **Tradeuse e-Retail Media — GroupM (2024 – 2025)**  
-→ Analyse de performances, reporting et recommandations stratégiques pour Coca-Cola & Whirlpool
+→ Gestion de campagnes, analyse de performances, reporting et recommandations stratégiques pour Coca-Cola & Whirlpool
 
 **Consultante en Stratégie de Marque Personnelle (2020 – 2023)**  
 → Accompagnement de coachs et thérapeutes dans la définition de leur positionnement et identité digitale
 
 **Consultante en Communication Digitale — Hopscotch (2015 – 2017)**  
-→ Social listening et analyse d’image pour Microsoft, Keolis, AG2R <br>
+→ Social listening et analyse d’e-réputation pour Microsoft, Keolis, AG2R <br>
 → Campagne doublement primée par *Communication & Entreprises* 🏆  
 
 ---
@@ -59,7 +59,7 @@ Je cherche aujourd’hui à rejoindre une équipe **data collaborative** où je 
 
 ### 🎨 Centres d’intérêt
 
-🥋 **Arts martiaux** – Penchak Silat & Karaté<br>
+🥋 **Arts martiaux** – Penchak Silat & Karaté Shotokan <br>
 🥁 **Musique** – Batterie & chant
 
 ---
